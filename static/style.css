@@ -1,0 +1,11 @@
+body{
+	background: #13b90b;
+}
+.btn{
+	padding: 3px;
+	margin: 3px;
+	background: white;
+	font-size: 20px;
+	border-radius: 8px;
+	border: solid;
+}
